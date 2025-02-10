@@ -20,7 +20,19 @@
   {
     "name": "Travellings",
     "icon": "/home/images/icon/travelling.png",
-    "tip": "开往友链接力",
+    "tip": "开往「友链接力」",
     "url": "https://www.travellings.cn/go.html"
+  },
+  {
+    "name": "博友圈",
+    "icon": "/home/images/icon/boyouquan.png",
+    "tip": "博友圈「星球穿梭」",
+    "url": "https://www.boyouquan.com/planet-shuttle"
+  },
+  {
+    "name": "foreverblog",
+    "icon": "/home/images/icon/foreverblog.png",
+    "tip": "十年之约「虫洞」",
+    "url": "https://foreverblog.cn/go.html"
   }
 ]
