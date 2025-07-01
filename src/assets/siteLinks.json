@@ -2,31 +2,31 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://zishu.is-cool.dev/"
+    "link": "https://finding.is-cool.dev/"
   },
   {
     "icon": "Compass",
     "name": "起始页",
-    "link": "https://zishu.is-cool.dev/home/"
+    "link": "https://finding.is-cool.dev/home/"
   },
   {
     "icon": "Book",
     "name": "元器件之旅",
-    "link": "https://zishu.is-cool.dev/tags/元器件之旅/"
+    "link": "https://finding.is-cool.dev/tags/元器件之旅/"
   },
   {
     "icon": "Book",
     "name": "专栏",
-    "link": "https://zishu.is-cool.dev/topic/"
+    "link": "https://finding.is-cool.dev/topic/"
   },
   {
     "icon": "CompactDisc",
     "name": "在线音游",
-    "link": "https://zishu.is-cool.dev/mikutap/"
+    "link": "https://finding.is-cool.dev/mikutap/"
   },
   {
     "icon": "CompactDisc",
     "name": "Deemo复刻",
-    "link": "https://zishu.is-cool.dev/deemo/"
+    "link": "https://finding.is-cool.dev/deemo/"
   }
 ]
