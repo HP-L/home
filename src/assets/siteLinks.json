@@ -2,7 +2,7 @@
   {
     "icon": "Blog",
     "name": "博客",
-    "link": "https://www.findingx.cc/"
+    "link": "https://blog.findingx.cc/"
   },
   {
     "icon": "Compass",
@@ -17,12 +17,12 @@
   {
     "icon": "Book",
     "name": "专栏",
-    "link": "https://www.findingx.cc/topic/"
+    "link": "https://blog.findingx.cc/topic/"
   },
   {
     "icon": "CompactDisc",
     "name": "在线音游",
-    "link": "https://www.findingx.cc/mikutap/"
+    "link": "https://blog.findingx.cc/mikutap/"
   },
   {
     "icon": "CompactDisc",
